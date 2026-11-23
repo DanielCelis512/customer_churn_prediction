@@ -1,1 +1,15 @@
+# Core data analysis
+pandas
+numpy
 
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning and preprocessing
+scikit-learn
+lightgbm
+
+# Jupyter notebook environment
+jupyter
+ipykernel
